@@ -1,0 +1,113 @@
+[[porta2]]
+arch = "powerpc64le"
+git-tree-sha1 = "57b6221b6ce33df13d4cd075131b35c4258aa2f4"
+libc = "glibc"
+os = "linux"
+
+    [[porta2.download]]
+    sha256 = "ffce438ff8ab9f0ce83a2f6d646af04c5245b772791af53c7c8ca006b9482a78"
+    url = "https://github.com/bdoolittle/porta2_jll/releases/download/porta2-v1.4.1+0/porta2.v1.4.1.powerpc64le-linux-gnu.tar.gz"
+[[porta2]]
+arch = "armv7l"
+git-tree-sha1 = "9e337de40395e7933f4de782ac70aa7c2ccc94dc"
+libc = "glibc"
+os = "linux"
+
+    [[porta2.download]]
+    sha256 = "5104d81622da54fd393562dfc57e2591cac8b9ac9614540fa53f0c73a8c7b66b"
+    url = "https://github.com/bdoolittle/porta2_jll/releases/download/porta2-v1.4.1+0/porta2.v1.4.1.armv7l-linux-gnueabihf.tar.gz"
+[[porta2]]
+arch = "aarch64"
+git-tree-sha1 = "9bb86f8b76d4061d98e0cef257b8535e1a77ea44"
+libc = "glibc"
+os = "linux"
+
+    [[porta2.download]]
+    sha256 = "0757d5b0bee5c96d518269b72c4a12bdcb0f4a35f8f895fa8cd99c8b9865e483"
+    url = "https://github.com/bdoolittle/porta2_jll/releases/download/porta2-v1.4.1+0/porta2.v1.4.1.aarch64-linux-gnu.tar.gz"
+[[porta2]]
+arch = "x86_64"
+git-tree-sha1 = "0578260086700678aa261a7ccff00c14706f1caa"
+libc = "glibc"
+os = "linux"
+
+    [[porta2.download]]
+    sha256 = "651a074ce47a66047f04752e3d2f06458143f3c197badab2d0280a79bbf292b0"
+    url = "https://github.com/bdoolittle/porta2_jll/releases/download/porta2-v1.4.1+0/porta2.v1.4.1.x86_64-linux-gnu.tar.gz"
+[[porta2]]
+arch = "i686"
+git-tree-sha1 = "f6acbe64864ebc0b2a79ef79c2423a6f6d4a5d37"
+libc = "musl"
+os = "linux"
+
+    [[porta2.download]]
+    sha256 = "3cdd249f90ddf6f98ca13f1fc7e4099987e1475ff784620383e3e946cc70a248"
+    url = "https://github.com/bdoolittle/porta2_jll/releases/download/porta2-v1.4.1+0/porta2.v1.4.1.i686-linux-musl.tar.gz"
+[[porta2]]
+arch = "aarch64"
+git-tree-sha1 = "c0b555995242db4ce40bff83867ac65a333ef0b7"
+libc = "musl"
+os = "linux"
+
+    [[porta2.download]]
+    sha256 = "505157979a4447fb661c697f818a16cf62060ecd95ad9cdaf022359675b60496"
+    url = "https://github.com/bdoolittle/porta2_jll/releases/download/porta2-v1.4.1+0/porta2.v1.4.1.aarch64-linux-musl.tar.gz"
+[[porta2]]
+arch = "i686"
+git-tree-sha1 = "7902f38683d6e9e8b0d1f8a680d6521e53e7dfd5"
+libc = "glibc"
+os = "linux"
+
+    [[porta2.download]]
+    sha256 = "3d85a994b09ad51ddf11a2da3d6d542d2ce096309fc70fb111ae95353602cc51"
+    url = "https://github.com/bdoolittle/porta2_jll/releases/download/porta2-v1.4.1+0/porta2.v1.4.1.i686-linux-gnu.tar.gz"
+[[porta2]]
+arch = "x86_64"
+git-tree-sha1 = "4c3157fa6675148aa85a9a89786b330a8b4e72fb"
+os = "macos"
+
+    [[porta2.download]]
+    sha256 = "0ac4da5b2bdd247b6761f52996006b2fefe1ce648f27cd9ef4edd6709f3b5726"
+    url = "https://github.com/bdoolittle/porta2_jll/releases/download/porta2-v1.4.1+0/porta2.v1.4.1.x86_64-apple-darwin14.tar.gz"
+[[porta2]]
+arch = "x86_64"
+git-tree-sha1 = "81cb69ca37639b8ac1bdac9ba445e7c7567dfd44"
+os = "freebsd"
+
+    [[porta2.download]]
+    sha256 = "e9fd021c894cb3a0d39e7063163416d3cf4df8846557bf5d49158eb17d97ba0c"
+    url = "https://github.com/bdoolittle/porta2_jll/releases/download/porta2-v1.4.1+0/porta2.v1.4.1.x86_64-unknown-freebsd11.1.tar.gz"
+[[porta2]]
+arch = "i686"
+git-tree-sha1 = "98e4e0d16ecc52dfa2d14e891b533abe907f5a8e"
+os = "windows"
+
+    [[porta2.download]]
+    sha256 = "b252d35d0312918fdf8370f06767a1d8410b818d120fee2adeaf695bbd91a6db"
+    url = "https://github.com/bdoolittle/porta2_jll/releases/download/porta2-v1.4.1+0/porta2.v1.4.1.i686-w64-mingw32.tar.gz"
+[[porta2]]
+arch = "armv7l"
+git-tree-sha1 = "2af61bbb3948af26d1fd872a696cf04948d9d3d9"
+libc = "musl"
+os = "linux"
+
+    [[porta2.download]]
+    sha256 = "f78bb0944e55ea9fa078e47849e24309b7c54bc38cc94beb9e528026788361d1"
+    url = "https://github.com/bdoolittle/porta2_jll/releases/download/porta2-v1.4.1+0/porta2.v1.4.1.armv7l-linux-musleabihf.tar.gz"
+[[porta2]]
+arch = "x86_64"
+git-tree-sha1 = "8447b515554967320838eced6fa924dcd7e1ccdb"
+os = "windows"
+
+    [[porta2.download]]
+    sha256 = "35a0d43af5f604d7596575b0fef7695bb70a9d6d4f77b3f85992aca94f12c214"
+    url = "https://github.com/bdoolittle/porta2_jll/releases/download/porta2-v1.4.1+0/porta2.v1.4.1.x86_64-w64-mingw32.tar.gz"
+[[porta2]]
+arch = "x86_64"
+git-tree-sha1 = "7afb9be940dd9d26b7f51094aeccb61de3145eeb"
+libc = "musl"
+os = "linux"
+
+    [[porta2.download]]
+    sha256 = "baece34807880a34b35e51052bbe856c62f26ae0b0c40dcaa34ba0f809ef8e80"
+    url = "https://github.com/bdoolittle/porta2_jll/releases/download/porta2-v1.4.1+0/porta2.v1.4.1.x86_64-linux-musl.tar.gz"
